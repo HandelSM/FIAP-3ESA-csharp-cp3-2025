@@ -1,0 +1,98 @@
+#
+1;01234567890;09:12
+Iron Maiden;M;The Trooper;119.90
+Metallica;G;Master of Puppets;129.90
+#
+2;11122233344;09:45
+Sepultura;P;Arise;114.90
+Slayer;G;Reign in Blood;119.90
+#
+3;22233344455;10:03
+Iron Maiden;G;Powerslave;129.90
+Metallica;M;Ride the Lightning;124.90
+Kreator;G;Pleasure to Kill;114.90
+#
+4;33344455566;10:27
+Blind Guardian;M;Nightfall in Middle-Earth;124.90
+Megadeth;G;Countdown to Extinction;124.90
+#
+5;44455566677;11:02
+Sepultura;M;Chaos A.D.;119.90
+Metallica;M;Kill Em All;119.90
+Iron Maiden;M;Number of the Beast;124.90
+#
+6;55566677788;11:19
+Rammstein;M;Mutter;129.90
+System of a Down;M;Toxicity;119.90
+#
+7;66677788899;12:41
+Amon Amarth;M;Twilight of the Thunder God;119.90
+Arch Enemy;G;War Eternal;124.90
+#
+8;77788899900;13:05
+Kreator;M;Violent Revolution;119.90
+Blind Guardian;P;Valhalla;109.90
+#
+9;88899900011;14:22
+Iron Maiden;M;Senjutsu;139.90
+Slayer;M;South of Heaven;124.90
+#
+10;99900011122;15:10
+Gojira;G;Magma;129.90
+Ghost;M;Meliora;119.90
+#
+11;12312312312;16:33
+Nightwish;M;Dark Passion Play;124.90
+Stratovarius;G;Infinite;129.90
+#
+12;98765432100;17:58
+Sepultura;G;Quadra;129.90
+Metallica;G;Black Album;134.90
+#
+13;10101010101;09:07
+Iron Maiden;M;The Trooper;119.90
+Iron Maiden;G;The Trooper;119.90
+Metallica;G;Master of Puppets;129.90
+Metallica;G;Master of Puppets;129.90
+#
+14;20202020202;09:55
+Sepultura;M;Chaos A.D.;119.90
+Sepultura;G;Chaos A.D.;119.90
+Kreator;M;Violent Revolution;119.90
+Kreator;M;Violent Revolution;119.90
+#
+15;30303030303;10:21
+Blind Guardian;P;Valhalla;109.90
+Blind Guardian;M;Valhalla;109.90
+Megadeth;G;Rust in Peace;124.90
+Megadeth;G;Rust in Peace;124.90
+#
+16;40404040404;11:18
+Slayer;G;Reign in Blood;119.90
+Slayer;G;Reign in Blood;119.90
+Iron Maiden;M;Powerslave;129.90
+Iron Maiden;G;Powerslave;129.90
+#
+17;50505050505;12:42
+Metallica;M;Ride the Lightning;124.90
+Metallica;G;Ride the Lightning;124.90
+Pantera;G;Vulgar Display of Power;119.90
+Pantera;G;Vulgar Display of Power;119.90
+#
+18;60606060606;13:27
+Kreator;G;Pleasure to Kill;114.90
+Kreator;G;Pleasure to Kill;114.90
+Gojira;G;Magma;129.90
+Gojira;G;Magma;129.90
+#
+19;70707070707;14:36
+Nightwish;M;Dark Passion Play;124.90
+Nightwish;G;Dark Passion Play;124.90
+Ghost;M;Meliora;119.90
+Ghost;M;Meliora;119.90
+#
+20;80808080808;15:58
+Amon Amarth;M;Twilight of the Thunder God;119.90
+Amon Amarth;G;Twilight of the Thunder God;119.90
+Arch Enemy;G;War Eternal;124.90
+Arch Enemy;G;War Eternal;124.90
